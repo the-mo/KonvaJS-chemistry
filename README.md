@@ -1,3 +1,3 @@
-# StackBlitz react-nny8q3
+# KonvaJS chemistry
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-nny8q3)
+This chemistry will show the basic functionalities of KonvaJS and the possibilities that come with it.
